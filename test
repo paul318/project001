@@ -1,34 +1,40 @@
+<html>
 <p style="text-align: center;">line things starter</p>
 <hr />
 <p style="text-align: center;">device disconnected</p>
 <hr />
 <p style="text-align: left;">&nbsp;</p>
+<p>released</p>
 <table style="height: 138px;" width="210">
 <tbody>
 <tr>
 <td style="width: 200px;">Name:</td>
+<td style="width: 200px;">&nbsp;</td>
 </tr>
 <tr>
 <td style="width: 200px;">ID:</td>
+<td style="width: 200px;">&nbsp;</td>
 </tr>
 <tr>
 <td style="width: 200px;">PSDI:</td>
+<td style="width: 200px;">&nbsp;</td>
 </tr>
 <tr>
-<td style="width: 200px;">Bluetooth state:</td> 
-  <botton>
+<td style="width: 200px;">Bluetooth state:</td>
+<td style="width: 200px;">&nbsp;<button>
   released
-</botton>
+  </button></td>
 </tr>
 <tr>
 <td style="width: 200px;">click count:</td>
+<td style="width: 200px;">&nbsp;</td>
 </tr>
 </tbody>
 </table>
-<hr />
+<hr /><button>test
 <p>&nbsp;</p>
-  <botton>
-  
-</botton>
 <hr />
+</button>
 <p>&nbsp;</p>
+
+</html>
