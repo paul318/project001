@@ -1,4 +1,34 @@
-<html>
-
-<body> hello   </body>
-</html>
+<p style="text-align: center;">line things starter</p>
+<hr />
+<p style="text-align: center;">device disconnected</p>
+<hr />
+<p style="text-align: left;">&nbsp;</p>
+<table style="height: 138px;" width="210">
+<tbody>
+<tr>
+<td style="width: 200px;">Name:</td>
+</tr>
+<tr>
+<td style="width: 200px;">ID:</td>
+</tr>
+<tr>
+<td style="width: 200px;">PSDI:</td>
+</tr>
+<tr>
+<td style="width: 200px;">Bluetooth state:</td> 
+  <botton>
+  released
+</botton>
+</tr>
+<tr>
+<td style="width: 200px;">click count:</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<p>&nbsp;</p>
+  <botton>
+  
+</botton>
+<hr />
+<p>&nbsp;</p>
